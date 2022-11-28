@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jack, A 4th Year (3B) Software Engineering Student at the University of Waterloo.
+I'm Jack, a 4th Year (3B) Software Engineering Student at the University of Waterloo.
 
 <!--
 **jh242/jh242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
